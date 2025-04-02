@@ -1,5 +1,5 @@
 Sistema de Pagamentos com Injeção de Dependência
-Projeto Java demonstrando a implementação prática do princípio de Injeção de Dependência (DI) através de um sistema de processamento de pagamentos.
+Projeto Java demonstrando a implementação prática do princípio de Injeção de Dependência (DI) através de um sistema de processamento de pagamentos simples.
 
 Objetivo
 Ilustrar como a DI permite:
@@ -15,13 +15,16 @@ Ilustrar como a DI permite:
 
 Padrão de Design: Injeção de Dependência
 
-Como Executar
+Como ver o projeto
 Clone o repositório:
 
 git clone https://github.com/pevawinto/injecaodependencia
 
+Ou baixe por zip!
+
 Benefícios da Implementação
-Extensibilidade: Adicione novos métodos de pagamento sem modificar o serviço principal (baixo acoplamento)
+
+Extensibilidade: Adicionar novos métodos de pagamento sem modificar o serviço principal (baixo acoplamento)
 
 Testabilidade: Fácil de mockar dependências para testes unitários
 
