@@ -9,8 +9,11 @@ Ilustrar como a DI permite:
 
 -Baixo acoplamento entre componentes
 -Fácil extensibilidade
+
 -Maior testabilidade
+
 -Manutenção simplificada
+
 
 
 Padrão de Design: Injeção de Dependência
