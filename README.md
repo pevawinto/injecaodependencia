@@ -22,7 +22,3 @@ Extensibilidade: Adicione novos métodos de pagamento sem modificar o serviço p
 Testabilidade: Fácil de mockar dependências para testes unitários
 
 Manutenção: Alterações em um processador não afetam os outros componentes
-
-
-Licença
-MIT License - Copyright (c) 2023 [Pedro Vaccare]
