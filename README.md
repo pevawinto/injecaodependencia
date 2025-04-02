@@ -21,7 +21,7 @@ Clone o repositório:
 git clone https://github.com/pevawinto/injecaodependencia
 
 Benefícios da Implementação
-Extensibilidade: Adicione novos métodos de pagamento sem modificar o serviço principal
+Extensibilidade: Adicione novos métodos de pagamento sem modificar o serviço principal (baixo acoplamento)
 
 Testabilidade: Fácil de mockar dependências para testes unitários
 
