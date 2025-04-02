@@ -5,6 +5,7 @@ Objetivo
 Ilustrar como a DI permite:
 
 -Baixo acoplamento entre componentes
+
 -Fácil extensibilidade
 
 -Maior testabilidade
