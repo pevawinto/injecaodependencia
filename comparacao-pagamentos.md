@@ -63,5 +63,3 @@ Aqui temos ele funcionando com o postman
 Conclusão
 
 A implementação pura em Java é válida para sistemas pequenos, mas conforme o sistema cresce, manter a manutenibilidade torna-se desafiador. O uso do Spring melhora a extensibilidade, reduz a complexidade e facilita a adição de novas funcionalidades, tornando-se a melhor escolha para sistemas escaláveis.
-
-Autores: Pedro Trofino Vaccare, Leonardo Villa, Victor Pera
